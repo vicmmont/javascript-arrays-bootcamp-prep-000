@@ -35,3 +35,5 @@ function destructivelyRemoveElementFromEndOfArray(array) {
   array.splice(array.length - 1, 1);
   return array;
 }
+
+function remove
